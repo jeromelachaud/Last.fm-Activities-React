@@ -7,7 +7,7 @@
     "enzyme": "^2.7.1",
     "enzyme-to-json": "^1.5.0",
     "flux": "^3.1.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "moment": "^2.15.1",
     "prop-types": "^15.5.10",
     "react": "^15.4.2",
